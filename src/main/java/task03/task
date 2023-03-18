@@ -3,5 +3,8 @@ given row
 
 You should to check that brackets open and close correctly:
 open and closed in right order (can include opening other brackets)
+
+right order is when opened bracket will have closed bracket when after opening will have other opened brackets also closed
+
 first is ok
 second is wrong
