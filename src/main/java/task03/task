@@ -1,0 +1,7 @@
+given row
+()([]) and ([)]
+
+You should to check that brackets open and close correctly:
+open and closed in right order (can include opening other brackets)
+first is ok
+second is wrong

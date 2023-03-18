@@ -1,1 +1,1 @@
-# cv
+small tasks for improving algorithms skills
